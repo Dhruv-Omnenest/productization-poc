@@ -1,0 +1,56 @@
+{
+  "apps/portal": {
+    "root": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.configFile": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "apps/portal/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

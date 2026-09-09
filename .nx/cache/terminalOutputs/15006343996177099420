@@ -1,0 +1,1259 @@
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m10:20:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:21:02 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:21:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:21:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:21:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:26:05 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:26:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:26:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mreact-router-dom[32m[39m
+[2m10:26:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m10:26:08 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:26:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/Sidebar.tsx[22m
+[2m10:27:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:16 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:19 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unexpected token (16:4)
+
+[0m [90m 14 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 15 |[31m         [33m<[31m
+[31m[1m>[22m[31m[90m 16 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m     [31m[1m^[22m[31m
+ [90m 17 |[31m   )[33m;[31m
+ [90m 18 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:16:4
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.jsxParseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4585:12)
+      at TypeScriptParserMixin.jsxParseNamespacedName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4592:23)
+      at TypeScriptParserMixin.jsxParseElementName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4601:21)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4677:22)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4702:33)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4714:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13171:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12827:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13326:10)
+[2m10:27:22 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:32 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:50 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:54 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:27:59 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:14 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unterminated JSX contents. (14:10)
+
+[0m [90m 12 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 13 |[31m         [33m<[31m[33mchildren[31m[33m>[31m
+[31m[1m>[22m[31m[90m 14 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m           [31m[1m^[22m[31m
+ [90m 15 |[31m   )[33m;[31m
+ [90m 16 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:14:10
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.jsxReadToken (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4464:20)
+      at TypeScriptParserMixin.getTokenFromCode (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4790:12)
+      at TypeScriptParserMixin.getTokenFromCode (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10008:11)
+      at TypeScriptParserMixin.nextToken (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:5803:10)
+      at TypeScriptParserMixin.next (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:5713:10)
+      at TypeScriptParserMixin.eat (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:5717:12)
+      at TypeScriptParserMixin.expect (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6919:15)
+      at TypeScriptParserMixin.jsxParseClosingElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4696:10)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4711:37)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4714:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13171:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12827:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+[2m10:28:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:15 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unexpected token (14:4)
+
+[0m [90m 12 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 13 |[31m         [33m<[31m[33mchildren[31m
+[31m[1m>[22m[31m[90m 14 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m     [31m[1m^[22m[31m
+ [90m 15 |[31m   )[33m;[31m
+ [90m 16 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:14:4
+[33m  14 |      </div>
+  15 |    );
+  16 |  }
+     |   ^[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.jsxParseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4585:12)
+      at TypeScriptParserMixin.jsxParseNamespacedName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4592:23)
+      at TypeScriptParserMixin.jsxParseAttribute (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4668:22)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4683:28)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10064:18)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4678:17)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4702:33)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4714:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13171:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12827:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+[2m10:28:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:17 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unterminated regular expression. (14:6)
+
+[0m [90m 12 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 13 |[31m         {children
+[31m[1m>[22m[31m[90m 14 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 15 |[31m   )[33m;[31m
+ [90m 16 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:14:6
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.readRegexp (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6349:20)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11339:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11007:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11002:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10968:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9327:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10929:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4648:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4727:36)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+[2m10:28:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:28:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:29:01 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:29:09 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:09 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:09 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unexpected token, expected "..." (14:9)
+
+[0m [90m 12 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 13 |[31m         [33m<[31m[33mhe[31m
+[31m[1m>[22m[31m[90m 14 |[31m         {children}
+ [90m    |[31m          [31m[1m^[22m[31m
+ [90m 15 |[31m         [33m<[31m[33mSidebar[31m[33m/[31m[33m>[31m
+ [90m 16 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 17 |[31m   )[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:14:9
+[33m  13 |          <he
+  14 |          {children}
+  15 |          <Sidebar/>
+     |     ^
+  16 |      </div>
+  17 |    );[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.expect (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6920:12)
+      at TypeScriptParserMixin.jsxParseAttribute (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4661:12)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4683:28)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10064:18)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4678:17)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4702:33)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4714:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13171:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12827:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+[2m10:30:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:10 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\AppShell.tsx: Unexpected token, expected "..." (14:9)
+
+[0m [90m 12 |[31m     [33m<[31m[33mdiv[31m[33m>[31m
+ [90m 13 |[31m         [33m<[31m[33mheader[31m
+[31m[1m>[22m[31m[90m 14 |[31m         {children}
+ [90m    |[31m          [31m[1m^[22m[31m
+ [90m 15 |[31m         [33m<[31m[33mSidebar[31m[33m/[31m[33m>[31m
+ [90m 16 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 17 |[31m   )[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/AppShell.tsx[39m:14:9
+[33m  13 |          <header
+  14 |          {children}
+  15 |          <Sidebar/>
+     |     ^
+  16 |      </div>
+  17 |    );[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.expect (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6920:12)
+      at TypeScriptParserMixin.jsxParseAttribute (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4661:12)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4683:28)
+      at TypeScriptParserMixin.jsxParseOpeningElementAfterName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10064:18)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4678:17)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4702:33)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4714:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4765:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4775:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:39
+      at TypeScriptParserMixin.tryParse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6928:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9796:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12455:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12522:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11701:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11357:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:4780:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11102:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10805:23)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10801:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13171:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12827:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+[2m10:30:12 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:22 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:30:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:31:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:31:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:31:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/Header.tsx[22m
+[2m10:31:44 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/Header.tsx[22m
+[2m10:43:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:43:21 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:43:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:43:26 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import AppShell from "./AppShell";
+  7  |  import AppRoutes from "./routes";[39m
+[2m10:43:26 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import AppShell from "./AppShell";
+  7  |  import AppRoutes from "./routes";[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:43:27 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:43:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:43:59 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:44:16 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:44:16 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import AppShell from "./AppShell";
+  7  |  import AppRoutes from "./routes";[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:18 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+[2m10:44:18 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:29 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+[2m10:44:29 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:32 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../../";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+[2m10:44:32 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../../";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:36 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:44:40 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:41 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+[2m10:44:41 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:44 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:45 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../....//libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../....//libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+[2m10:44:45 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../....//libs/productization/src/ProductizationProvider" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:5:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../....//libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  import {
+  7  |    tenantConfigurations[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:48 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/config" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:9:7
+[33m  6  |  import {
+  7  |    tenantConfigurations
+  8  |  } from "../../../libs/productization/src/config";
+     |          ^
+  9  |  import AppShell from "./AppShell";
+  10 |  import AppRoutes from "./routes";[39m
+[2m10:44:48 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/config" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:9:7
+[33m  6  |  import {
+  7  |    tenantConfigurations
+  8  |  } from "../../../libs/productization/src/config";
+     |          ^
+  9  |  import AppShell from "./AppShell";
+  10 |  import AppRoutes from "./routes";[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:49 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:50 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/config" from "apps/portal/src/app/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:9:7
+[33m  6  |  import {
+  7  |    tenantConfigurations
+  8  |  } from "../../../libs/productization/src/config";
+     |          ^
+  9  |  import AppShell from "./AppShell";
+  10 |  import AppRoutes from "./routes";[39m
+[2m10:44:50 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/config" from "apps/portal/src/app/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:9:7
+[33m  6  |  import {
+  7  |    tenantConfigurations
+  8  |  } from "../../../libs/productization/src/config";
+     |          ^
+  9  |  import AppShell from "./AppShell";
+  10 |  import AppRoutes from "./routes";[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:44:54 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:44:55 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/App.tsx[22m
+[2m10:45:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/Sidebar.tsx[22m
+[2m10:45:34 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m10:45:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:45:35 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m10:45:35 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+[2m10:45:39 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:45:39 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../....//libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../....//libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m10:45:39 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../....//libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../....//libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+[2m10:45:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:45:41 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m10:45:41 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/app/Sidebar.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/Sidebar.tsx[39m:5:7
+[33m  4  |  import {
+  5  |    useProductization
+  6  |  } from "../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  7  |  export default function Sidebar() {
+  8  |    _s();[39m
+[2m10:45:44 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.tsx[22m
+[2m10:45:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/Sidebar.tsx[22m
+[2m10:46:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:54 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:54 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\App.tsx: Unexpected token (16:25)
+
+[0m [90m 14 |[31m [36mexport[31m [36mdefault[31m [36mfunction[31m [33mApp[31m() {
+ [90m 15 |[31m   [36mconst[31m configuration [33m=[31m
+[31m[1m>[22m[31m[90m 16 |[31m     tenantConfigurations[33m.[31m[33m;[31m
+ [90m    |[31m                          [31m[1m^[22m[31m
+ [90m 17 |[31m
+ [90m 18 |[31m   [36mreturn[31m (
+ [90m 19 |[31m     [33m<[31m[33mProductizationProvider[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:16:25
+[33m  17 |  
+  18 |    return (
+  19 |      <ProductizationProvider
+     |   ^
+  20 |        configuration={configuration}
+  21 |      >[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.parseIdentifierName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12232:12)
+      at TypeScriptParserMixin.parseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12210:23)
+      at TypeScriptParserMixin.parseMember (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11169:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11145:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9293:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11115:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11106:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13413:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13259:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9429:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12880:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12129:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12115:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9193:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13474:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12432:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13473:10)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13936:19)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9423:18)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13857:25)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9406:20)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12907:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12773:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12651:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12641:25)
+      at TypeScriptParserMixin.parse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:14517:25)
+[2m10:46:55 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:57 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:46:57 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:47:06 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:47:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m10:47:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:09:47 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:09:49 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:09:49 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/libs/productization/src/config.ts:9:7: ERROR: Expected ":" but found "abcConfiguration"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/libs/productization/src/config.ts[39m:9:7
+[33m  
+  [33mExpected ":" but found "abcConfiguration"[33m
+  7  |    TenantConfiguration
+  8  |  > = {
+  9  |   const abcConfiguration = {
+     |         ^
+  10 |    tenant: {
+  11 |      id: "abc",
+  [39m
+      at failureErrorWithLog (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\esbuild@0.28.2\node_modules\esbuild\lib\main.js:1752:15)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\esbuild@0.28.2\node_modules\esbuild\lib\main.js:1019:50
+      at responseCallbacks.<computed> (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\esbuild@0.28.2\node_modules\esbuild\lib\main.js:886:9)
+      at handleIncomingPacket (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\esbuild@0.28.2\node_modules\esbuild\lib\main.js:941:12)
+      at Socket.readFromStdout (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\esbuild@0.28.2\node_modules\esbuild\lib\main.js:864:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m11:09:49 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/libs/productization/src/config.ts:9:7: ERROR: Expected ":" but found "abcConfiguration"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/libs/productization/src/config.ts[39m:9:7
+[33m  
+  [33mExpected ":" but found "abcConfiguration"[33m
+  7  |    TenantConfiguration
+  8  |  > = {
+  9  |   const abcConfiguration = {
+     |         ^
+  10 |    tenant: {
+  11 |      id: "abc",
+  [39m
+[2m11:10:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:10:49 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:11:49 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/products/trading/Trading.tsx[22m
+[2m11:11:49 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:1:34
+[33m  1  |  import { jsxDEV } from "react/jsx-dev-runtime";
+  2  |  var _s = $RefreshSig$();
+  3  |  import { useProductization } from "../../../../libs/productization/src/ProductizationProvider";
+     |                                     ^
+  4  |  export default function Trading() {
+  5  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+      at async viteTransformMiddleware (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:24622:20)
+[2m11:12:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:19 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:19 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    ProductizationProvider
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:30 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProd
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:30 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProd
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:32 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:32 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProducti
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:32 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProducti
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:34 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:34 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:38 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../..,/libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../..,/libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:38 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../..,/libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../..,/libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:39 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:39 am[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29079:43)
+      at TransformPluginContext.error (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:29076:14)
+      at normalizeUrl (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27199:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27257:32
+      at async Promise.all (index 1)
+      at async TransformPluginContext.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:27225:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:28877:14)
+      at async loadAndTransform (file:///C:/Users/DhruvMehta/OneDrive%20-%20OmneNest%20Technologies%20Pvt%20Ltd/Desktop/productization-poc/node_modules/.pnpm/vite@7.3.6_yaml@2.9.0/node_modules/vite/dist/node/chunks/config.js:22746:26)
+[2m11:12:39 am[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "../../../../libs/productization/src/ProductizationProvider" from "apps/portal/src/products/trading/Trading.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/products/trading/Trading.tsx[39m:3:7
+[33m  3  |  import {
+  4  |    useProductization
+  5  |  } from "../../../../libs/productization/src/ProductizationProvider";
+     |          ^
+  6  |  export default function Trading() {
+  7  |    _s();[39m
+[2m11:12:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/routes.tsx[22m
+[2m11:12:42 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/products/trading/Trading.tsx[22m
+[2m11:13:08 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:13:08 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\App.tsx: Unexpected token (16:25)
+
+[0m [90m 14 |[31m [36mexport[31m [36mdefault[31m [36mfunction[31m [33mApp[31m() {
+ [90m 15 |[31m   [36mconst[31m configuration [33m=[31m
+[31m[1m>[22m[31m[90m 16 |[31m     tenantConfigurations[33m.[31m[33m;[31m
+ [90m    |[31m                          [31m[1m^[22m[31m
+ [90m 17 |[31m
+ [90m 18 |[31m   [36mreturn[31m (
+ [90m 19 |[31m     [33m<[31m[33mProductizationProvider[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:16:25
+[33m  17 |  
+  18 |    return (
+  19 |      <ProductizationProvider
+     |   ^
+  20 |        configuration={configuration}
+  21 |      >[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.parseIdentifierName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12232:12)
+      at TypeScriptParserMixin.parseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12210:23)
+      at TypeScriptParserMixin.parseMember (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11169:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11145:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9293:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11115:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11106:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13413:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13259:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9429:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12880:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12129:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12115:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9193:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13474:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12432:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13473:10)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13936:19)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9423:18)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13857:25)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9406:20)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12907:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12773:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12651:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12641:25)
+      at TypeScriptParserMixin.parse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:14517:25)
+[2m11:13:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:13:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:13:24 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:13:24 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\App.tsx: Unexpected token (16:25)
+
+[0m [90m 14 |[31m [36mexport[31m [36mdefault[31m [36mfunction[31m [33mApp[31m() {
+ [90m 15 |[31m   [36mconst[31m configuration [33m=[31m
+[31m[1m>[22m[31m[90m 16 |[31m     tenantConfigurations[33m.[31m[33m;[31m
+ [90m    |[31m                          [31m[1m^[22m[31m
+ [90m 17 |[31m
+ [90m 18 |[31m   [36mreturn[31m (
+ [90m 19 |[31m     [33m<[31m[33mProductizationProvider[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:16:25
+[33m  17 |  
+  18 |    return (
+  19 |      <ProductizationProvider
+     |   ^
+  20 |        configuration={configuration}
+  21 |      >[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.parseIdentifierName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12232:12)
+      at TypeScriptParserMixin.parseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12210:23)
+      at TypeScriptParserMixin.parseMember (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11169:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11145:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9293:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11115:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11106:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13413:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13259:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9429:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12880:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12129:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12115:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9193:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13474:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12432:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13473:10)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13936:19)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9423:18)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13857:25)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9406:20)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12907:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12773:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12651:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12641:25)
+      at TypeScriptParserMixin.parse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:14517:25)
+[2m11:13:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:13:27 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:23:12 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m

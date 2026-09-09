@@ -1,0 +1,19 @@
+{
+  "name": "productization-poc",
+  "private": true,
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.18.2"
+  },
+  "devDependencies": {
+    "@nx/vite": "^22.7.5",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^5.0.0",
+    "nx": "^22.7.5",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.6"
+  }
+}

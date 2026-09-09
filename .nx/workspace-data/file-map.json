@@ -1,0 +1,103 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.7.8",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "tsconfig.json",
+        "hash": "1216305188575682147"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "13845791781770478150"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "15766710886944357539"
+      },
+      {
+        "file": "libs/productization/src/config.ts",
+        "hash": "3393397308366869855"
+      },
+      {
+        "file": "libs/productization/src/types.ts",
+        "hash": "9234442510987057215"
+      },
+      {
+        "file": "libs/productization/src/ProductizationProvider.tsx",
+        "hash": "3326317010026596404"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "13085741256527698361"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4613372190725536043"
+      },
+      {
+        "file": "package.json",
+        "hash": "7916777310787620374"
+      }
+    ],
+    "projectFileMap": {
+      "portal": [
+        {
+          "file": "apps/portal/index.html",
+          "hash": "9115966962536622566"
+        },
+        {
+          "file": "apps/portal/project.json",
+          "hash": "4917088601352524445"
+        },
+        {
+          "file": "apps/portal/src/app/App.tsx",
+          "hash": "10717629833464832959"
+        },
+        {
+          "file": "apps/portal/src/app/AppShell.tsx",
+          "hash": "9733014502049570875"
+        },
+        {
+          "file": "apps/portal/src/app/Header.tsx",
+          "hash": "7046901903987231243"
+        },
+        {
+          "file": "apps/portal/src/app/Sidebar.tsx",
+          "hash": "2018178189502506693"
+        },
+        {
+          "file": "apps/portal/src/app/routes.tsx",
+          "hash": "10769422867460899862"
+        },
+        {
+          "file": "apps/portal/src/main.tsx",
+          "hash": "9422129442287916656"
+        },
+        {
+          "file": "apps/portal/src/products/kyc/Kyc.tsx",
+          "hash": "17466191471355059070"
+        },
+        {
+          "file": "apps/portal/src/products/reports/Reports.tsx",
+          "hash": "11407245630402338407"
+        },
+        {
+          "file": "apps/portal/src/products/trading/Trading.tsx",
+          "hash": "9560927066007624479"
+        },
+        {
+          "file": "apps/portal/tsconfig.json",
+          "hash": "14954406909206904121"
+        },
+        {
+          "file": "apps/portal/vite.config.ts",
+          "hash": "16033273053110835864"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "18274268797172212813"
+}

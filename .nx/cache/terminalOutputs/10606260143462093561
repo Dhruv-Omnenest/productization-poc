@@ -1,0 +1,72 @@
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m11:17:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:17:20 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\apps\portal\src\app\App.tsx: Unexpected token (16:25)
+
+[0m [90m 14 |[31m [36mexport[31m [36mdefault[31m [36mfunction[31m [33mApp[31m() {
+ [90m 15 |[31m   [36mconst[31m configuration [33m=[31m
+[31m[1m>[22m[31m[90m 16 |[31m     tenantConfigurations[33m.[31m[33m;[31m
+ [90m    |[31m                          [31m[1m^[22m[31m
+ [90m 17 |[31m
+ [90m 18 |[31m   [36mreturn[31m (
+ [90m 19 |[31m     [33m<[31m[33mProductizationProvider[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/DhruvMehta/OneDrive - OmneNest Technologies Pvt Ltd/Desktop/productization-poc/apps/portal/src/app/App.tsx[39m:16:25
+[33m  17 |  
+  18 |    return (
+  19 |      <ProductizationProvider
+     |   ^
+  20 |        configuration={configuration}
+  21 |      >[39m
+      at constructor (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6620:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:6640:16)
+      at TypeScriptParserMixin.parseIdentifierName (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12232:12)
+      at TypeScriptParserMixin.parseIdentifier (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12210:23)
+      at TypeScriptParserMixin.parseMember (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11169:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11145:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9293:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11115:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11106:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11087:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:11067:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9858:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10920:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10925:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10902:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10852:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9807:20)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12450:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:10821:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13413:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13259:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9429:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12880:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12776:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13326:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12129:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12115:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9193:18)
+      at C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13474:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12432:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13473:10)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13936:19)
+      at TypeScriptParserMixin.parseExportDefaultExpression (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9423:18)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13857:25)
+      at TypeScriptParserMixin.parseExport (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9406:20)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12907:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:9529:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12796:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12773:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13345:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:13338:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12651:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:12641:25)
+      at TypeScriptParserMixin.parse (C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\@babel+parser@7.29.8\node_modules\@babel\parser\lib\index.js:14517:25)
+[2m11:17:22 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
+[2m11:17:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx[22m
