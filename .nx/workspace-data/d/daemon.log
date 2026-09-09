@@ -6669,3 +6669,81 @@ Deleted:
 [NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.131Z - Done responding to the client handleGetConfigureAiAgentsStatus
 [NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.131Z - Handled json message GET_CONFIGURE_AI_AGENTS_STATUS. Handling time: 0. Response time: 1.
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.135Z - [Messenger] Received message, length: 104
+[isolated-plugin] spawned worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js" (pid: 39312, socket: \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-0-947.7706.sock)
+[isolated-plugin] spawned worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json" (pid: 41676, socket: \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-1-1329.5061.sock)
+[isolated-plugin] spawned worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json" (pid: 17820, socket: \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-2-1794.0539.sock)
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js" (pid: 39312) listening on \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-0-947.7706.sock
+[1m[33mTime taken for 'plugin worker 39312 code loading' 333.23209999999995ms[39m[22m
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.366Z - [WATCHER]: Processing file changes in outputs
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.367Z - [WATCHER]: _tmp_10136_745fcccb361b1926654a354943e92668 was deleted
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.367Z - [WATCHER]: File changes detected:
+Created:
+(none)
+Updated:
+(none)
+Deleted:
+  - _tmp_10136_745fcccb361b1926654a354943e92668
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.367Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.367Z - Time taken for 'loadSpecifiedNxPlugins' 1204.5961ms
+[isolated-plugin] connected to worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js" (pid: 39312)
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js" (pid: 39312) connected
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.376Z - Time taken for 'start-plugin-worker:C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js' 1212.5434ms
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json" (pid: 41676) listening on \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-1-1329.5061.sock
+[1m[33mTime taken for 'plugin worker 41676 code loading' 400.21169999999995ms[39m[22m
+[isolated-plugin] connected to worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json" (pid: 41676)
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.528Z - Time taken for 'start-plugin-worker:C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json' 984.8514999999998ms
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json" (pid: 41676) connected
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js" (pid: 39312) loaded successfully
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.625Z - Time taken for 'Load Nx Plugin: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\js' 1466.4863ms
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json" (pid: 41676) loaded successfully
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.714Z - Time taken for 'Load Nx Plugin: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\package-json' 1554.8525ms
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json" (pid: 17820) listening on \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\plugin14804-2-1794.0539.sock
+[isolated-plugin] connected to worker for "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json" (pid: 17820)
+[1m[33mTime taken for 'plugin worker 17820 code loading' 325.311ms[39m[22m
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.844Z - Time taken for 'start-plugin-worker:C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json' 836.3545999999999ms
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json" (pid: 17820) connected
+[plugin-worker] "C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json" (pid: 17820) loaded successfully
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.988Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.988Z - [REQUEST]: 
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.988Z - [REQUEST]: _tmp_10136_745fcccb361b1926654a354943e92668
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.990Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.991Z - [REQUEST]: 
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.991Z - [REQUEST]: _tmp_10136_745fcccb361b1926654a354943e92668
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.998Z - Time taken for 'loadDefaultNxPlugins' 1829.8401000000001ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.998Z - Time taken for 'Load Nx Plugin: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\plugins\project-json\build-nodes\project-json' 1828.0995000000003ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.998Z - Time taken for 'hash changed files from watcher' 0.11769999999978609ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:50.998Z - Time taken for 'hash changed files from watcher' 0.09989999999970678ms
+[1m[33mTime taken for 'nx/core/project-json:createNodes' 0.9830999999999221ms[39m[22m
+[1m[33mTime taken for 'nx/core/project-json:createNodes' 1.1697999999998956ms[39m[22m
+[isolated-plugin] shutting down worker for "nx/core/project-json" after createNodes
+[1m[33mTime taken for 'nx/core/package-json:createNodes' 2.016300000000001ms[39m[22m
+[1m[33mTime taken for 'nx/core/package-json:createNodes' 2.173999999999978ms[39m[22m
+[isolated-plugin] shutting down worker for "nx/core/package-json" after createNodes
+[1m[33mTime taken for 'nx/js/dependencies-and-lockfile:createNodes' 5.020800000000008ms[39m[22m
+[1m[33mTime taken for 'nx/js/dependencies-and-lockfile:createNodes' 5.155099999999948ms[39m[22m
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.036Z - Time taken for 'build-project-configs' 25.939700000000357ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'build-project-configs' 26.262100000000373ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'createNodes:merge' 7.5603000000000975ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'createNodes:merge' 0.2838000000001557ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'native-file-deps' 0.0048000000001593435ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'get-workspace-files' 0.5949000000000524ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'get-all-workspace-files' 5.846799999999803ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.037Z - Time taken for 'read cache' 0.7173999999999978ms
+[isolated-plugin] shutting down worker for "nx/js/dependencies-and-lockfile" after createDependencies
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.050Z - [SYNC]: collect registered sync generators
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.051Z - [SYNC]: collect registered sync generators
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.051Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.051Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.051Z - Time taken for 'total execution time for createProjectGraph()' 18.7203999999997ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.052Z - Time taken for 'createDependencies' 12.968599999999697ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.052Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 12.784299999999803ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.052Z - Time taken for 'createMetadata' 0.020500000000083674ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:51.052Z - Time taken for 'serialize graph' 0.6195000000002437ms
+Fetching nx...
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:05:06.436Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\DHRUVM~1\AppData\Local\Temp\tmp-14804-anEm3WU41cgE
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:05:06.438Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::preferences: Loaded console preferences: NxConsolePreferences { auto_install_console: Some(false), path: "C:\\Users\\DhruvMehta\\.nx\\ide.json" }
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:05:06.443Z - [AI-AGENTS]: Failed to compute agent configuration status from latest Nx. Error: Only URLs with a scheme in: file, data, node, and electron are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'c:'
+DEBUG nx::native::ide::install: Detected editor: Unknown
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:05:06.444Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 0 partially configured, 0 non-configured
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:05:06.448Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
