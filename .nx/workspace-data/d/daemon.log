@@ -6638,3 +6638,5 @@ Deleted:
 [NX v22.7.8 Daemon Server] - 2026-09-09T06:01:06.072Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:01:06.077Z - [ProjectGraphListener] Starting reconnection for 1 callbacks
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:01:06.084Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:02:49.194Z - [Client] Server not available after 6000 attempts
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:02:49.205Z - [ProjectGraphListener] Failed to reconnect - server unavailable
