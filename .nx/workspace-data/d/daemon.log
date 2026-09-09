@@ -6640,3 +6640,32 @@ Deleted:
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:01:06.084Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:02:49.194Z - [Client] Server not available after 6000 attempts
 [NX v22.7.8 Daemon Client] - 2026-09-09T06:02:49.205Z - [ProjectGraphListener] Failed to reconnect - server unavailable
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:46.742Z - [Client] Starting new daemon server in background
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:48.131Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.028Z - New daemon starting from: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\daemon\server\server.js
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.029Z - New daemon __dirname: C:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc\node_modules\.pnpm\nx@22.7.8\node_modules\nx\dist\src\daemon\server
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.029Z - New daemon nxVersion: 22.7.8
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.033Z - New daemon getInstalledNxVersion(): 22.7.8
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.039Z - Time taken for 'workspace context init' 1.5406000000000404ms
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.048Z - [Server] Starting outdated check interval (20ms)
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.051Z - Started listening on: \\.\pipe\nx\C:\Users\DHRUVM~1\AppData\Local\Temp\64a84da5032f549a7f21\d.sock
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.054Z - [WATCHER]: Subscribed to changes within: c:\Users\DhruvMehta\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\productization-poc (native)
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.055Z - [LATEST-NX]: Pulling latest Nx...
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.069Z - [Client] Server available
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.080Z - [Client] Daemon server started, pid=14804
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.078Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.081Z - Established a connection. Number of open connections: 1
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.082Z - Closed a connection. Number of open connections: 0
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.084Z - Established a connection. Number of open connections: 1
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.089Z - [Messenger] Setting up socket listeners
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.098Z - [Messenger] listen() complete
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.108Z - [Messenger] Sending message type: GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.119Z - [Messenger] Message sent
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.130Z - Received raw message of length 41
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.130Z - Received json message of type GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.130Z - Serializing response for GET_CONFIGURE_AI_AGENTS_STATUS message in json mode
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.130Z - Responding to GET_CONFIGURE_AI_AGENTS_STATUS message
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.130Z - [REQUEST]: Responding to the client. handleGetConfigureAiAgentsStatus
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.131Z - Done responding to the client handleGetConfigureAiAgentsStatus
+[NX v22.7.8 Daemon Server] - 2026-09-09T06:04:49.131Z - Handled json message GET_CONFIGURE_AI_AGENTS_STATUS. Handling time: 0. Response time: 1.
+[NX v22.7.8 Daemon Client] - 2026-09-09T06:04:49.135Z - [Messenger] Received message, length: 104
