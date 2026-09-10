@@ -1,18 +1,18 @@
 {
   "run": {
-    "command": "nx serve portal",
-    "startTime": "2026-09-09T05:46:11.603Z",
-    "endTime": "2026-09-09T05:59:26.275Z",
+    "command": "nx build portal --outputPath=dist/abc",
+    "startTime": "2026-09-10T10:05:43.007Z",
+    "endTime": "2026-09-10T10:05:44.874Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "portal:serve",
-      "target": "serve",
+      "taskId": "portal:build",
+      "target": "build",
       "projectName": "portal",
-      "hash": "10606260143462093561",
-      "startTime": "2026-09-09T05:46:11.675Z",
-      "endTime": "2026-09-09T05:59:26.203Z",
+      "hash": "17226940357911113507",
+      "startTime": "2026-09-10T10:05:43.040Z",
+      "endTime": "2026-09-10T10:05:44.848Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

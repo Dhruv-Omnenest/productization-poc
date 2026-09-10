@@ -6,40 +6,64 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "tsconfig.json",
-        "hash": "1216305188575682147"
-      },
-      {
         "file": "pnpm-workspace.yaml",
         "hash": "13845791781770478150"
       },
       {
-        "file": "pnpm-lock.yaml",
-        "hash": "15766710886944357539"
+        "file": "apps/trading/AdvancedOrders.tsx",
+        "hash": "5842658314259847019"
       },
       {
-        "file": "libs/productization/src/config.ts",
-        "hash": "3393397308366869855"
+        "file": ".gitignore",
+        "hash": "5897144212543453524"
       },
       {
-        "file": "libs/productization/src/types.ts",
-        "hash": "9234442510987057215"
+        "file": "build-manifests/abc.json",
+        "hash": "16726466753926597046"
+      },
+      {
+        "file": "apps/trading/Watchlist.tsx",
+        "hash": "14636696498855942371"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "1216305188575682147"
       },
       {
         "file": "libs/productization/src/ProductizationProvider.tsx",
         "hash": "3326317010026596404"
       },
       {
+        "file": "package.json",
+        "hash": "2887323582272112051"
+      },
+      {
+        "file": "libs/productization/src/types.ts",
+        "hash": "9234442510987057215"
+      },
+      {
+        "file": "libs/productization/src/config.ts",
+        "hash": "3393397308366869855"
+      },
+      {
+        "file": "nx.json",
+        "hash": "15161680040397955514"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "12396168918723918325"
+      },
+      {
         "file": "tsconfig.base.json",
         "hash": "13085741256527698361"
       },
       {
-        "file": "nx.json",
-        "hash": "4613372190725536043"
+        "file": "scripts/runPipeline.mjs",
+        "hash": "2048557422826799739"
       },
       {
-        "file": "package.json",
-        "hash": "7916777310787620374"
+        "file": "scripts/generateClientBuild.mjs",
+        "hash": "4688249378291099691"
       }
     ],
     "projectFileMap": {
@@ -54,7 +78,7 @@
         },
         {
           "file": "apps/portal/src/app/App.tsx",
-          "hash": "10717629833464832959"
+          "hash": "14612745109812635935"
         },
         {
           "file": "apps/portal/src/app/AppShell.tsx",
@@ -69,8 +93,20 @@
           "hash": "2018178189502506693"
         },
         {
+          "file": "apps/portal/src/app/products/trading/Trading.generated.tsx",
+          "hash": "10560600245724495404"
+        },
+        {
+          "file": "apps/portal/src/app/routes.generated.tsx",
+          "hash": "4712866989538350671"
+        },
+        {
           "file": "apps/portal/src/app/routes.tsx",
-          "hash": "10769422867460899862"
+          "hash": "2430150471910254750"
+        },
+        {
+          "file": "apps/portal/src/app/tenant.generated.ts",
+          "hash": "13946375487301432954"
         },
         {
           "file": "apps/portal/src/main.tsx",

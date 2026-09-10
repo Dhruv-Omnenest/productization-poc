@@ -21,7 +21,7 @@ export default function AppRoutes() {
         element={<Kyc />}
       />
 
-      <Route
+      <Route  
         path="/reports"
         element={<Reports />}
       />
